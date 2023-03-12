@@ -11,8 +11,7 @@
 ## 适用版本
 ### realmeUI 4.0 (Android 13)
 - A.23
-- A.22
-- A.21
+- A.21/A.22
 - A.20
 - A.19
 - A.13
@@ -31,10 +30,10 @@
 ![coolapk_ycly](coolapk.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/ihTGT0pd59eh)
+[蓝奏云](https://ycly.lanzouw.com/iUIBs0py0psd)
 
-[天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
+[天翼云盘](https://cloud.189.cn/t/muQnii3imYNb)
 
-密码：5zxh
+密码：yf8m
 
 ## [问题反馈](https://f.wps.cn/w/GQndtqeN/)
