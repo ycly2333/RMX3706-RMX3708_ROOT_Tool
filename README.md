@@ -24,9 +24,6 @@
 - 若继续使用此工具，表示你了解刷机风险和root风险并自行承担后果！！
 - 请确保设备已经正常解锁Bootloader
 
-## QQ群
-![qq](realme_ycly.png)
-
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
 
