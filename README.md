@@ -2,7 +2,7 @@
 
 ## 关于本工具
 - 作者：洋葱落叶
-- 工具版本：V1.1.1
+- 工具版本：V2
 
 **如果您转载本人制作的root工具，请务必保留原作者信息**
 
@@ -10,6 +10,7 @@
 
 ## 适用版本
 ### realmeUI 4.0 (Android 13)
+- A.36 (13.1.0.106)
 - A.35 (13.1.0.105)
 - A.34 (13.1.0.104)
 - A.33 (13.1.0.103)
@@ -33,7 +34,7 @@
 ![qq](realme_ycly.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/iZuS70ulxe3c)
+[蓝奏云](https://ycly.lanzouw.com/i9ooz0xkgncf)
 
 [天翼云盘](https://cloud.189.cn/t/muQnii3imYNb)
 
